@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ubuntu@172.16.0.139:22">
+    <serverData>
+      <paths name="ubuntu@172.16.0.139:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/Documents/June/DA_faster_rcnn" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/ubuntu/Documents/June/DA_faster_rcnn/multi_train" />
+            <excludedPath path="/home/ubuntu/Documents/June/DA_faster_rcnn/backbone/fasterrcnn_resnet50_fpn_coco.pth" />
+            <excludedPath path="/home/ubuntu/Documents/June/DA_faster_rcnn/save_weights" />
+            <excludedPath path="/home/ubuntu/Documents/June/DA_faster_rcnn/backbone/mobilenet_v2.pth" />
+            <excludedPath path="/home/ubuntu/Documents/June/DA_faster_rcnn/save" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
